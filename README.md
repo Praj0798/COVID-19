@@ -1,3 +1,5 @@
+Detailed description of project in DeepLearning.pdf
+
 # COVID19_ViT
 COVID-19 detection using Vision Transformers
 
